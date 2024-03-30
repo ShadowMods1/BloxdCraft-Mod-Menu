@@ -1,1 +1,1 @@
-# BloxdCraft-Mod-Menu
+Menu Toggle Key is "/"
