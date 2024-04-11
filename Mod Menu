@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       NexusFusion
 // @match        *://blockcraft.online/*
+// @match        https://miniblox.io/
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
